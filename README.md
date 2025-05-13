@@ -10,7 +10,7 @@ Focado em produtividade, combinado com um design clean.
 4. Cole o que você copiou
 5. Reinicie seu Visual Studio Code.
 
-## Extensões necessárias
+# Extensões necessárias
 1. Material Icons Theme
 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 2. Custom UI Style
