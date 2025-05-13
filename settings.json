@@ -1,0 +1,41 @@
+{
+    "files.autoSave": "afterDelay",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Ayu Light",
+    "workbench.sideBar.location": "right",
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "3588675C-0355-4911-B870-6FC8E97DF5A5"
+        }
+    ],
+    "mssql.connections": [],
+    "database-client.autoSync": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.fontLigatures": true,
+    "explorer.compactFolders":false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0.3,
+    // https://marketplace.visualstudio.com/items?itemName=subframe7536.custom-ui-style
+}
